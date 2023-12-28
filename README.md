@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Results summary component challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
-- [Live Site URL](https://zealest.github.io/__product-preview-card-component)
+- [Live Site URL](https://zealest.github.io/__results-summary-component)
 
 ### Built with
 
